@@ -229,3 +229,4 @@ Markdown поддерживает упрощённый порядок автом
 copyright: https://github.com/OlgaVlasova/markdown-doc/edit/master/README.md
 
 ура
+p[[[p]]]
